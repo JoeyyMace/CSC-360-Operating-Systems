@@ -1,3 +1,20 @@
+/*
+
+Purpose:
+The purpose of this project is to familiarize you with the mechanics of process control through the
+implementation of a shell user interface. This includes the relationship between child and parent
+processes, the steps needed to create a new process, shell variables, and an introduction to userinput parsing and verification.
+
+Your shell program must be able to run on a Linux environment such as Ubuntu on Windows
+Linux Subsystem.
+
+Problem Statement:
+Design and implement a basic shell interface that supports the execution of other programs and a
+series of built-in functions, as specified below. The shell should be robust (e.g., it should not crash
+under any circumstance beyond machine failure). 
+
+*/
+
 #include <string>
 #include <iostream>
 #include <sstream>
